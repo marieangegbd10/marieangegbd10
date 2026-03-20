@@ -1,16 +1,28 @@
-## Hi there 👋
+# Salut, moi c'est Marie-Ange ! 👋 👩‍💻
 
-<!--
-**marieangegbd10/marieangegbd10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Étudiante en L2 Informatique et Réseaux (IRT)
+Passionnée par le développement, les systèmes Linux et l'électronique numérique. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Mon Portfolio & CV
+Tu peux consulter mon CV interactif complet ici :
+👉 **[marieangegbd10.github.io](https://marieangegbd10.github.io)**
+
+---
+
+## 🛠️ Mes Compétences
+- **Langages :** Java (POO), HTML5, CSS3, JavaScript
+- **Outils :** Git, GitHub, Linux, SQL
+- **Électronique :** Logique combinatoire et séquentielle (Flip-flops JK/T)
+
+---
+
+## ✨ Mes Projets en cours
+- [x] Création d'un CV interactif avec Mode Sombre 🌙
+- [ ] Développement d'un site vitrine pour la "Maison des Tissus" 👗
+- [ ] Perfectionnement en Java et réseaux
+
+---
+
+📫 **Comment me joindre :** Via mon CV en ligne !
