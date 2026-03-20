@@ -1,3 +1,5 @@
+![Ma Bannière]
+(github.png)
 # Salut, moi c'est Marie-Ange ! 👋 👩‍💻
 
 ### 💻 Étudiante en L2 Informatique et Réseaux (IRT)
